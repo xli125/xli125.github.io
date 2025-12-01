@@ -641,3 +641,14 @@ jsonresume:
   - languages
   - interests
   - references
+# -----------------------------------------------------------------------------
+# Navigation
+# -----------------------------------------------------------------------------
+
+navigation:
+  - title: "about"
+    url: "/"
+  - title: "publications"
+    url: "/publications/"
+  - title: "cv"
+    url: "/cv/"
