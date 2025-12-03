@@ -29,14 +29,14 @@ email: xiaoling.li@yale.edu # your email address
 linkedin_username: Xiaoling Li # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0002-1554-1569 # your ORCID ID
+orcid_id: "0000-0002-1554-1569" # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: false # comment this line to hide the RSS icon
-scholar_userid: y-T-GUMAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: "y-T-GUMAAAAJ&hl=en" # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -53,6 +53,6 @@ scholar_userid: y-T-GUMAAAAJ&hl=en # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+# title: Custom Social
+# url: https://www.alberteinstein.com/
