@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-10'
+  last_updated: '2025-12-17'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
     citations: 21
@@ -46,11 +46,11 @@ papers:
     title: "Author Correction: Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:ZqE1mSdD_DYC:
-    citations: 146
+    citations: 147
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
-    citations: 52
+    citations: 53
     title: Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:g5Ck-dwhA_QC:
@@ -62,7 +62,7 @@ papers:
     title: YAP drives fate conversion and chemoresistance of small cell lung cancer
     year: '2021'
   y-T-GUMAAAAJ:hSRAE-fF4OAC:
-    citations: 65
+    citations: 66
     title: "Loss of VGLL 4 suppresses tumor PD\u2010L1 expression and immune evasion"
     year: '2019'
   y-T-GUMAAAAJ:hvmnpdAuIbkC:
