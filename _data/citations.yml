@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
     citations: 24
@@ -46,7 +46,7 @@ papers:
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
-    citations: 55
+    citations: 56
     title: Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:g5Ck-dwhA_QC:
@@ -54,7 +54,7 @@ papers:
     title: The LIS1/NDE1 complex is essential for FGF signaling by regulating FGF receptor intracellular trafficking
     year: '2018'
   y-T-GUMAAAAJ:ghEM2AJqZyQC:
-    citations: 118
+    citations: 119
     title: YAP drives fate conversion and chemoresistance of small cell lung cancer
     year: '2021'
   y-T-GUMAAAAJ:hSRAE-fF4OAC:
