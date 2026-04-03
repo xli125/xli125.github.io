@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-03'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
-    citations: 24
+    citations: 25
     title: The critical interplay of CAF plasticity and resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:4aZ_i-5WJEQC:
-    citations: 9
+    citations: 10
     title: 'Lineage plasticity and histological transformation: tumor histology as a spectrum'
     year: '2025'
   y-T-GUMAAAAJ:D_tqNUsBuKoC:
@@ -34,7 +34,7 @@ papers:
     title: 'Abstract PO-117: CHD1-loss promotes tumor heterogeneity and therapy resistance in prostate cancer'
     year: '2020'
   y-T-GUMAAAAJ:T_ojBgVMvoEC:
-    citations: 40
+    citations: 41
     title: ZNF397 deficiency triggers TET2-driven lineage plasticity and AR-targeted therapy resistance in prostate cancer
     year: '2024'
   y-T-GUMAAAAJ:Zh0EY9V9P6UC:
@@ -42,11 +42,11 @@ papers:
     title: "Author Correction: Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:ZqE1mSdD_DYC:
-    citations: 160
+    citations: 161
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
-    citations: 56
+    citations: 57
     title: Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:g5Ck-dwhA_QC:
@@ -69,8 +69,12 @@ papers:
     citations: 46
     title: MEKK2 and MEKK3 suppress Hedgehog pathway-dependent medulloblastoma by inhibiting GLI1 function
     year: '2018'
+  y-T-GUMAAAAJ:s9ia6_kGH2AC:
+    citations: 0
+    title: A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR
+    year: '2026'
   y-T-GUMAAAAJ:tHtfpZlB6tUC:
-    citations: 19
+    citations: 20
     title: UBE2J1 is the E2 ubiquitin-conjugating enzyme regulating androgen receptor degradation and antiandrogen resistance
     year: '2024'
   y-T-GUMAAAAJ:unp9ATQDT5gC:
@@ -78,7 +82,7 @@ papers:
     title: Restoring our ubiquitination machinery to overcome resistance in cancer therapy
     year: '2024'
   y-T-GUMAAAAJ:v6i8RKmR8ToC:
-    citations: 180
+    citations: 182
     title: Loss of CHD1 promotes heterogeneous mechanisms of resistance to AR-targeted therapy via chromatin dysregulation
     year: '2020'
   y-T-GUMAAAAJ:wE-fMHVdjMkC:
