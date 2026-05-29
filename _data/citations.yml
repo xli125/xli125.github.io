@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-29'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
-    citations: 25
+    citations: 26
     title: The critical interplay of CAF plasticity and resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:4aZ_i-5WJEQC:
@@ -54,11 +54,11 @@ papers:
     title: "Author Correction: Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:ZqE1mSdD_DYC:
-    citations: 164
+    citations: 168
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
-    citations: 59
+    citations: 61
     title: Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:g5Ck-dwhA_QC:
@@ -66,7 +66,7 @@ papers:
     title: The LIS1/NDE1 complex is essential for FGF signaling by regulating FGF receptor intracellular trafficking
     year: '2018'
   y-T-GUMAAAAJ:ghEM2AJqZyQC:
-    citations: 120
+    citations: 125
     title: YAP drives fate conversion and chemoresistance of small cell lung cancer
     year: '2021'
   y-T-GUMAAAAJ:hSRAE-fF4OAC:
@@ -94,7 +94,7 @@ papers:
     title: Restoring our ubiquitination machinery to overcome resistance in cancer therapy
     year: '2024'
   y-T-GUMAAAAJ:v6i8RKmR8ToC:
-    citations: 184
+    citations: 186
     title: Loss of CHD1 promotes heterogeneous mechanisms of resistance to AR-targeted therapy via chromatin dysregulation
     year: '2020'
   y-T-GUMAAAAJ:wE-fMHVdjMkC:
