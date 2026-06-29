@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-06-29'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
     citations: 26
     title: The critical interplay of CAF plasticity and resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:4aZ_i-5WJEQC:
-    citations: 17
+    citations: 18
     title: 'Lineage plasticity and histological transformation: tumor histology as a spectrum'
     year: '2025'
   y-T-GUMAAAAJ:D_tqNUsBuKoC:
@@ -42,7 +42,7 @@ papers:
     title: Loss of SYNCRIP Unleashes APOBEC-Driven Mutagenesis, Tumor Heterogeneity, and AR-Targeted Therapy Resistance in Prostate Cancer - Beyond the Abstract
     year: '2024'
   y-T-GUMAAAAJ:T_ojBgVMvoEC:
-    citations: 45
+    citations: 44
     title: ZNF397 deficiency triggers TET2-driven lineage plasticity and AR-targeted therapy resistance in prostate cancer
     year: '2024'
   y-T-GUMAAAAJ:YB4bud6kWLwC:
@@ -54,7 +54,7 @@ papers:
     title: "Author Correction: Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:ZqE1mSdD_DYC:
-    citations: 169
+    citations: 168
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
