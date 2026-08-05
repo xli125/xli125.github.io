@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-08-05'
 papers:
   y-T-GUMAAAAJ:0aBXIfxlw9sC:
     citations: 26
     title: The critical interplay of CAF plasticity and resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:4aZ_i-5WJEQC:
-    citations: 18
+    citations: 21
     title: 'Lineage plasticity and histological transformation: tumor histology as a spectrum'
     year: '2025'
   y-T-GUMAAAAJ:D_tqNUsBuKoC:
@@ -42,7 +42,7 @@ papers:
     title: Loss of SYNCRIP Unleashes APOBEC-Driven Mutagenesis, Tumor Heterogeneity, and AR-Targeted Therapy Resistance in Prostate Cancer - Beyond the Abstract
     year: '2024'
   y-T-GUMAAAAJ:T_ojBgVMvoEC:
-    citations: 44
+    citations: 48
     title: ZNF397 deficiency triggers TET2-driven lineage plasticity and AR-targeted therapy resistance in prostate cancer
     year: '2024'
   y-T-GUMAAAAJ:YB4bud6kWLwC:
@@ -50,27 +50,27 @@ papers:
     title: UBE2J1 Is the E2 Ubiquitin-Conjugating Enzyme Regulating Androgen Receptor Degradation and Antiandrogen Resistance-Beyond the Abstract
     year: Unknown Year
   y-T-GUMAAAAJ:Zh0EY9V9P6UC:
-    citations: 9
+    citations: 10
     title: "Author Correction: Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:ZqE1mSdD_DYC:
-    citations: 168
+    citations: 175
     title: "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance"
     year: '2022'
   y-T-GUMAAAAJ:eGYfIraVYiQC:
-    citations: 63
+    citations: 69
     title: Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer
     year: '2023'
   y-T-GUMAAAAJ:g5Ck-dwhA_QC:
-    citations: 15
+    citations: 14
     title: The LIS1/NDE1 complex is essential for FGF signaling by regulating FGF receptor intracellular trafficking
     year: '2018'
   y-T-GUMAAAAJ:ghEM2AJqZyQC:
-    citations: 127
+    citations: 133
     title: YAP drives fate conversion and chemoresistance of small cell lung cancer
     year: '2021'
   y-T-GUMAAAAJ:hSRAE-fF4OAC:
-    citations: 70
+    citations: 69
     title: "Loss of VGLL4 suppresses tumor PD\u2010L1 expression and immune evasion"
     year: '2019'
   y-T-GUMAAAAJ:hvmnpdAuIbkC:
@@ -78,7 +78,7 @@ papers:
     title: 'Abstract NG06: CHD1-loss confers AR targeted therapy resistance via promoting cancer heterogeneity and lineage plasticity'
     year: '2020'
   y-T-GUMAAAAJ:qwy9JoKyICEC:
-    citations: 46
+    citations: 48
     title: MEKK2 and MEKK3 suppress Hedgehog pathway-dependent medulloblastoma by inhibiting GLI1 function
     year: '2018'
   y-T-GUMAAAAJ:s9ia6_kGH2AC:
@@ -86,7 +86,7 @@ papers:
     title: A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR
     year: '2026'
   y-T-GUMAAAAJ:tHtfpZlB6tUC:
-    citations: 26
+    citations: 25
     title: UBE2J1 is the E2 ubiquitin-conjugating enzyme regulating androgen receptor degradation and antiandrogen resistance
     year: '2024'
   y-T-GUMAAAAJ:unp9ATQDT5gC:
@@ -94,7 +94,7 @@ papers:
     title: Restoring our ubiquitination machinery to overcome resistance in cancer therapy
     year: '2024'
   y-T-GUMAAAAJ:v6i8RKmR8ToC:
-    citations: 192
+    citations: 195
     title: Loss of CHD1 promotes heterogeneous mechanisms of resistance to AR-targeted therapy via chromatin dysregulation
     year: '2020'
   y-T-GUMAAAAJ:wE-fMHVdjMkC:
@@ -102,6 +102,6 @@ papers:
     title: Selective ablation of tumor suppressors in parafollicular C cells elicits medullary thyroid carcinoma
     year: '2017'
   y-T-GUMAAAAJ:yqoGN6RLRZoC:
-    citations: 18
+    citations: 17
     title: Hepatic loss of Lissencephaly 1 (Lis1) induces fatty liver and accelerates liver tumorigenesis in mice
     year: '2018'
