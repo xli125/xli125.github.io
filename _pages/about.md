@@ -192,7 +192,7 @@ latest_posts:
         <div class="pub-meta">Cancer Cell · 2023 · First author</div>
         <h3>Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted therapy resistance in prostate cancer</h3>
         <p><strong>X. Li</strong>, Y. Wang, S. Deng, et al.</p>
-        <a href="https://doi.org/10.1016/j.ccell.2023.07.005" target="_blank" rel="noopener">Article →</a>
+        <a href="https://doi.org/10.1016/j.ccell.2023.06.010" target="_blank" rel="noopener">Article →</a>
       </article>
 
       <article class="publication-card">
@@ -213,14 +213,14 @@ latest_posts:
         <div class="pub-meta">Nature Cancer · 2022</div>
         <h3>Ectopic JAK-STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance</h3>
         <p>S. Deng, C. Wang, Y. Wang, et al., <strong>X. Li</strong>, et al.</p>
-        <a href="https://scholar.google.com/citations?user=y-T-GUMAAAAJ&hl=en" target="_blank" rel="noopener">Publication record →</a>
+        <a href="https://doi.org/10.1038/s43018-022-00431-9" target="_blank" rel="noopener">Article →</a>
       </article>
 
       <article class="publication-card">
         <div class="pub-meta">Science Advances · 2021</div>
         <h3>YAP drives fate conversion and chemoresistance of small cell lung cancer</h3>
         <p>Q. Wu, J. Guo, Y. Liu, et al., <strong>X. Li</strong>, et al.</p>
-        <a href="https://scholar.google.com/citations?user=y-T-GUMAAAAJ&hl=en" target="_blank" rel="noopener">Publication record →</a>
+        <a href="https://doi.org/10.1126/sciadv.abg1850" target="_blank" rel="noopener">Article →</a>
       </article>
     </div>
   </section>
