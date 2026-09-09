@@ -27,12 +27,12 @@ latest_posts:
 <div class="faculty-home">
 
   <section class="faculty-hero">
-    <div class="hero-kicker">Experimental Cancer Biology · Cancer Evolution</div>
+    <div class="hero-kicker">Cancer Biology · Cancer Evolution</div>
 
     <h1 class="hero-title">Understanding how cancer cells acquire the capacity to evolve</h1>
 
     <p class="hero-lead">
-      I am an experimental cancer biologist studying how <strong>genome instability</strong> and
+      I am a cancer biologist studying how <strong>genome instability</strong> and
       <strong>dynamic genome architecture</strong> generate cell-state plasticity and therapeutic resistance.
       My long-term goal is to define the mechanisms that connect genome evolution to cancer cell identity
       and to identify strategies that constrain therapeutic escape.
@@ -228,7 +228,7 @@ latest_posts:
   <section class="faculty-section about-brief">
     <div>
       <div class="section-eyebrow">About</div>
-      <h2>Experimental cancer biology with an evolutionary perspective</h2>
+      <h2>Cancer biology with an evolutionary perspective</h2>
     </div>
 
     <div class="about-columns">
