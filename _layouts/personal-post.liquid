@@ -1,0 +1,15 @@
+---
+layout: personal
+section: blog
+---
+<article class="personal-post">
+  <header class="pub-hero">
+    <a class="text-link small" href="{{ '/blog/' | relative_url }}">← Back to blog</a>
+    <p class="eyebrow">{{ page.date | date: '%B %d, %Y' }}</p>
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}
+      <p class="research-intro">{{ page.description | escape }}</p>
+    {% endif %}
+  </header>
+  <div class="post-prose">{{ content }}</div>
+</article>

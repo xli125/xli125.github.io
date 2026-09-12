@@ -1,3 +1,13 @@
+# Xiaoling Li · Personal Academic Website
+
+Source for [xli125.github.io](https://xli125.github.io/), with **Home / Research / Publication / Blog**.
+
+- [网站维护说明（中文）](_docs/WEBSITE_MAINTENANCE.md): page locations, design settings, publication updates, blog writing, deployment, and rollback.
+- Content and styling are maintained in this repository. The existing GitHub Actions workflow builds PRs and deploys approved changes after merging to `main`.
+- The original al-folio documentation is retained below for theme-level reference.
+
+---
+
 # al-folio
 
 <div align="center">
