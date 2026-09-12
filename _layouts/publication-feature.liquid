@@ -1,0 +1,54 @@
+---
+---
+{% case entry.key %}
+  {% when 'li2023_syncrip' %}
+    {% assign feature_title = 'An intrinsic brake on cancer evolution' %}
+    {% assign feature_summary = 'SYNCRIP loss unleashes APOBEC-driven mutagenesis and resistance to AR-targeted therapy.' %}
+    {% assign feature_topic = 'Genome instability' %}
+    {% assign feature_role = 'First author' %}
+    {% assign feature_image = 'syncrip' %}
+  {% when 'zhang2020_chd1' %}
+    {% assign feature_title = 'Chromatin plasticity opens routes to resistance' %}
+    {% assign feature_summary = 'CHD1 loss enables heterogeneous resistance mechanisms through chromatin dysregulation.' %}
+    {% assign feature_topic = 'Chromatin & cell identity' %}
+    {% assign feature_role = 'Co-first author' %}
+    {% assign feature_image = 'chd1' %}
+  {% when 'li2025_lineage_plasticity' %}
+    {% assign feature_title = 'Tumor histology as a spectrum' %}
+    {% assign feature_summary = 'A review of lineage plasticity and histological transformation across cancers.' %}
+    {% assign feature_topic = 'Lineage plasticity' %}
+    {% assign feature_role = 'First author · Review' %}
+    {% assign feature_image = 'lineage' %}
+{% endcase %}
+<article class="feature-card feature-{{ feature_image }}">
+  <a
+    class="feature-art"
+    href="https://doi.org/{{ entry.doi }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Read {{ entry.title | escape }} (opens in new tab)"
+  >
+    <span class="art-topic">{{ feature_topic }}</span>
+    <img
+      src="{{ feature_image | prepend: '/assets/img/publications/' | append: '.jpg' | relative_url }}"
+      width="735"
+      height="950"
+      alt="First page of {{ entry.title | escape }}"
+      decoding="async"
+    >
+    <span class="art-arrow" aria-hidden="true">↗</span>
+  </a>
+  <div class="feature-meta">
+    <span>{{ entry.journal }}</span><span>{{ entry.year }}</span>
+  </div>
+  <h3>
+    <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">{{ feature_title }}</a>
+  </h3>
+  <p class="feature-summary">{{ feature_summary }}</p>
+  <div class="feature-bottom">
+    <span>{{ feature_role }}</span
+    ><a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer" aria-label="Read paper: {{ entry.title | escape }}"
+      >Read paper <span aria-hidden="true">↗</span></a
+    >
+  </div>
+</article>
